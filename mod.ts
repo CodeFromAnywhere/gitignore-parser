@@ -1,6 +1,9 @@
 /**
-@module
+ * this is a test
+ * @module
+ */
 
+/**
 # [Gitignore](https://git-scm.com/docs/gitignore#_pattern_format) Parser
 
 A simple yet _complete_ [`.gitignore`](https://git-scm.com/docs/gitignore#_pattern_format) parser for node.js.
