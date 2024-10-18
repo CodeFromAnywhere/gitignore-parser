@@ -1,10 +1,6 @@
 /**
- * this is a test
- * @module
- */
-
-/**
-# [Gitignore](https://git-scm.com/docs/gitignore#_pattern_format) Parser
+ * 
+ * # [Gitignore](https://git-scm.com/docs/gitignore#_pattern_format) Parser
 
 A simple yet _complete_ [`.gitignore`](https://git-scm.com/docs/gitignore#_pattern_format) parser for node.js.
 
@@ -96,8 +92,9 @@ Supports all features listed in the [GIT SCM gitignore manpage](https://git-scm.
   
   Apache 2, see [LICENSE.md](./LICENSE.md).
 
-
-*/
+ * this is a test
+ * @module
+ */
 
 // mod.ts
 
