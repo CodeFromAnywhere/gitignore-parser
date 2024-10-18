@@ -92,7 +92,7 @@ Supports all features listed in the [GIT SCM gitignore manpage](https://git-scm.
   
   Apache 2, see [LICENSE.md](./LICENSE.md).
 
- * this is a test
+ * 
  * @module
  */
 
